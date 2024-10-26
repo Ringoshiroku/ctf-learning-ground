@@ -1,6 +1,7 @@
-Name: give me
-Value: 0
-Description: Maafkan soal yang gampang ini 🙏🏻, probset nya skill issue
+# give me
+100 points
+
+Maafkan soal yang gampang ini 🙏🏻, probset nya skill issue
 
 `nc 103.175.221.20 3333`
 

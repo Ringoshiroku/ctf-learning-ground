@@ -1,6 +1,6 @@
-Name: Name Name Name
-Value: 0
-Description: normalctfplayer
+# Name Name Name
+100 points
 
+normalctfplayer
 
 **Author : JersYY**
