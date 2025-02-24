@@ -1,0 +1,5 @@
+# Free the monsters
+0 points
+
+While I was waiting for monster hunter wilds to come out, I bumped into this one. But I haven't been able to finish it yet... It seems impossible! A friend of mine said he keeps the solvecript in his garage, but his older brother told him not to show anyone...
+
